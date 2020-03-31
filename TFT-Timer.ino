@@ -16,10 +16,10 @@
 #define TFT_MOSI 11   // set these to be whatever pins you like!
 
 #define pin_DT 6      // пин 6 подключаем к DT энкодера
-#define pin_CLK 5     // пин 5 подключаем к CLK энкодера
-#define pin_SW 7      // пин 7 подключаем к SW энкодера
-#define pin_Relay 3   // пин 4 подключаем к реле
-#define pin_Speaker 4 // пин 3 подключаем к + пищалки ( - пищалки на землю)
+#define pin_CLK 3     // пин 3 подключаем к CLK энкодера
+#define pin_SW 2      // пин 2 подключаем к SW энкодера
+#define pin_Relay 7   // пин 7 подключаем к реле
+#define pin_Speaker 4 // пин 4 подключаем к + пищалки ( - пищалки на землю)
 
 #define NotPush 0
 #define ShortPush 1
